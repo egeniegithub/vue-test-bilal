@@ -1,4 +1,4 @@
-# simple-login-project
+# Vue Test Bilal
 
 ## Project setup
 ```
